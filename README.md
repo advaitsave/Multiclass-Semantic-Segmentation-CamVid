@@ -1,1 +1,1 @@
-# Multiclass-Semantic-Segmentation-Cityscapes
+# Multiclass-Semantic-Segmentation-Camvid
